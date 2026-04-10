@@ -140,6 +140,7 @@ a {
 .link-card:nth-child(1) { animation-delay: 0.1s; }
 .link-card:nth-child(2) { animation-delay: 0.2s; }
 .link-card:nth-child(3) { animation-delay: 0.3s; }
+.link-card:nth-child(4) { animation-delay: 0.4s; }
 
 .link-card:hover,
 .link-card:focus-visible {
